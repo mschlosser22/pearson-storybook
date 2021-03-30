@@ -1,5 +1,17 @@
 # v0.1.2 (Tue Mar 30 2021)
 
+#### 🐛 Bug Fix
+
+- Dev [#1](https://github.com/mschlosser22/pearson-storybook/pull/1) ([@mschlosser22](https://github.com/mschlosser22))
+
+#### Authors: 1
+
+- [@mschlosser22](https://github.com/mschlosser22)
+
+---
+
+# v0.1.2 (Tue Mar 30 2021)
+
 #### ⚠️ Pushed to `master`
 
 - entry point (ms122r@gmail.com)
