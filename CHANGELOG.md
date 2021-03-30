@@ -1,3 +1,13 @@
+# v0.1.2 (Tue Mar 30 2021)
+
+#### ⚠️ Pushed to `master`
+
+- entry point (ms122r@gmail.com)
+
+#### Authors: 1
+
+- Mike Schlosser (ms122r@gmail.com)
+
 # v0.1.1 (Tue Mar 30 2021)
 
 #### ⚠️ Pushed to `master`
