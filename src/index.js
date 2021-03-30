@@ -1,1 +1,1 @@
-export * from './components/Hero/index';
+export { Hero, HeroProps } from './components/Hero/index';
