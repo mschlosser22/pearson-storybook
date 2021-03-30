@@ -34,3 +34,7 @@ yarn-error.log*
 .vercel
 
 src/tailwind.output.css
+
+#Storybook Publish
+dist
+.env
